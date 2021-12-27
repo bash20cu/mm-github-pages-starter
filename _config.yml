@@ -60,36 +60,33 @@ author:
   avatar : "/assets/images/bio-photo-2.jpg"
   bio    : "Software Engineer Student"
   links:
-    - label: "Curriculum"
+    - label: "Resume"
       icon: ""
-      url: "/assets/pdf/Curriculum-Ingles.pdf"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://bash20cu.github.io/portafolio/"
+      url: "/assets/pdf/Resume-Eng.pdf"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/miguel-alejandro-fernandez-arteaga-750b02a7/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Migue_Cu_Cr"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/bash20cu"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    
 
 footer:
   links:
+    - label: "Resume"
+      icon: ""
+      url: "/assets/pdf/Resume-Eng.pdf"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/miguel-alejandro-fernandez-arteaga-750b02a7/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/Migue_Cu_Cr"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/bash20cu"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-    - label: "Curriculum"
-      icon: ""
-      url: "/assets/pdf/Curriculum-Ingles.pdf"
+      url: "https://twitter.com/Migue_Cu_Cr"    
+    
+    
       
 
 

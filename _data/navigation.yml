@@ -1,4 +1,6 @@
 main:
+  - title: "Resume"
+    url: /assets/pdf/Resume-Eng.pdf
   - title: "Posts"
     url: /posts/
   - title: "Categories"
