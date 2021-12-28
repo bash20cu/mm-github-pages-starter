@@ -21,8 +21,8 @@ twitter_username: Migue_Cu_Cr
 github_username: bash20cu
 minimal_mistakes_skin: default
 search: true
-url: "https://bash20cu.github.io/"
-baseurl: "/portafolio"
+url: https://bash20cu.github.io/
+baseurl: /portafolio
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
