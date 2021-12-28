@@ -30,8 +30,7 @@ permalink: /:categories/:title/
 paginate: 6 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-baseurl: /bash20cu
+url: "https://bash20cu.github.io"
 
 include:
   - _pages
