@@ -1,27 +1,19 @@
 ---
+permalink: /projects/
 title: "Projects"
 excerpt_separator: "projects"
-categories:
-  - Blog
 tags:
   - Projects
   - Django
   - AWS
   - Virtual
   - Network
+  - Alura
+  - Oracle
 toc: true
 toc_label: "My Table of Contents"
 toc_icon: "cog"
 ---
-
-## Inventario PyDev win32
-
-![image-left]({{"/assets/images/Inventario-PyDev2.jpg"|absolute_url}}){: .align-left}
-
-App for handle the invoice system of a litle store or buisness,
-  using Python 2.7 lenguage and  Django framework
-  Is free to use, already deploy using Py-To-Exe
-  [Inventario PyDev](https://github.com/bash20cu/inventario_py_dev_0.5)
 
 ## Simulators on Arris Commscope
 
@@ -45,3 +37,12 @@ I managed to deploy the container system, with the collaboration of [joker charl
   Understand the virtualization system with containers, create  scripts to deploy all the containers,
   reaching the final publication of the connected Odoo CRM with the SQL engine "PostgreSQL"
 Thus learning to handle container technology and applying its principle - Same development environment - Same deployment environment
+
+## Inventario PyDev win32
+
+![image-left]({{"/assets/images/Inventario-PyDev2.jpg"|absolute_url}}){: .align-left}
+
+App for handle the invoice system of a litle store or buisness,
+  using Python 2.7 lenguage and  Django framework
+  Is free to use, already deploy using Py-To-Exe
+  [Inventario PyDev](https://github.com/bash20cu/inventario_py_dev_0.5)

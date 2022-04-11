@@ -1,8 +1,7 @@
 ---
+permalink: /skills/
 title: "Skills"
 excerpt_separator: "skills"
-categories:
-  - Blog
 tags:
   - skills
   - lenguages
@@ -20,9 +19,10 @@ toc_icon: "cog"
 
 ## Programming lenguages <i class="fa fa-code"></i>
 
-- HTML5
-- CSS3
-- Javascript
+- HTML5 ( Oracle Next Education Alura Programm )
+- CSS3 ( Oracle Next Education Alura Programm )
+- Java ( Certification Oracle Next Education Alura Programm  )
+- Javascript ( Certification Oracle Next Education Alura Programm)
 - Python
 - C Sharp [C#]
 
