@@ -31,3 +31,21 @@ header:
   in Customer Services. Communicating without reaching technicality is the most difficult
   thing to achieve, in this section I have fulfilled the expectations of helping clients, thus expressed solutions in
   assertive communication.
+
+### Contact me through this form
+
+<form
+  action="https://formspree.io/f/meqnrapv"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
