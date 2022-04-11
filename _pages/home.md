@@ -6,9 +6,9 @@ author_profile: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/banner.jpeg
-  actions:    
+  actions:
     - label: "Resume"
-     url: "https://bash20cu.github.io/Portfolio/assets/pdf/Resume-Eng.pdf"
+      url: "https://bash20cu.github.io/Portfolio/assets/pdf/Resume-Eng.pdf"
 
 ---
 
