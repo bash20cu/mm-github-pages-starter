@@ -63,7 +63,7 @@ author:
   links:
     - label: "Resume"
       icon: ""
-      url: "/assets/pdf/Resume-Eng.pdf"
+      url: "https://bash20cu.github.io/Portfolio/assets/pdf/Resume-Eng.pdf"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/miguel-arteaga-750b02a7"
@@ -79,7 +79,7 @@ footer:
   links:
     - label: "Resume"
       icon: ""
-      url: "/assets/pdf/Resume-Eng.pdf"
+      url: "https://bash20cu.github.io/Portfolio/assets/pdf/Resume-Eng.pdf"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/miguel-alejandro-fernandez-arteaga-750b02a7/"
