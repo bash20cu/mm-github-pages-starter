@@ -15,6 +15,13 @@ toc_label: "My Table of Contents"
 toc_icon: "cog"
 ---
 
+## Oracle Next Education Challanges
+
+Complete differents challanges on Oracle Next Education
+Challege #1  [Encrypt and Decrypt ](https://bash20cu.github.io/ONE-Alura-Challange1/) text using VanillaJS,
+  Trello and Figma.
+
+
 ## Simulators on Arris Commscope
 
 Create differents simulators, using the VanillaJS technology.
