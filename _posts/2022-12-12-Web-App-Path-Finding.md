@@ -1,5 +1,5 @@
 ---
-permalink: posts/:categories/:year/:month/:day/:title/
+permalink: /projects/:categories/:year/:month/:day/:title/
 title: "Web Application for Graph Visualization and Shortest Path Finding using Dijkstra's Algorithm"
 layout: single
 classes: wide
