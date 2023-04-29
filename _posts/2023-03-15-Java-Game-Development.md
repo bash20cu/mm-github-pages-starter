@@ -1,5 +1,5 @@
 ---
-permalink: /projects/java-game/
+permalink: /:categories/:year/:month/:day/:title/
 layout: single
 title: "Java Game Development"
 author_profile: true

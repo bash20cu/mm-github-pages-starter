@@ -1,5 +1,5 @@
 ---
-permalink: /Portfolio/projects/oracle-next-education
+permalink: /:categories/:year/:month/:day/:title/
 title: "Oracle Next Education with Alura LATAM"
 layout: single
 classes: wide

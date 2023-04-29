@@ -1,5 +1,5 @@
 ---
-permalink: /Portfolio/projects/inventario-pydev
+permalink: /:categories/:year/:month/:day/:title/
 title: "Inventario PyDev win32"
 layout: single
 classes: wide
