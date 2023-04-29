@@ -1,8 +1,7 @@
 ---
-layout: post
-title: "Java Game Development"
+permalink: /projects/java-game
 layout: single
-classes: wide
+title: "Java Game Development"
 author_profile: true
 tags:
   - Projects
