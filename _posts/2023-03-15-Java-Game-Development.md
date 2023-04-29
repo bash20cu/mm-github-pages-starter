@@ -11,7 +11,7 @@ tags:
   - Videogames
   - Debug
 
-toc: true
+toc: false
 toc_label: "My Table of Contents"
 toc_icon: "cog"
 ---

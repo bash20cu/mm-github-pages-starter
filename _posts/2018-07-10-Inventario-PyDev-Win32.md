@@ -12,7 +12,7 @@ tags:
   - Network
   - Alura
   - Oracle
-toc: true
+toc: false
 toc_icon: "cog"
 ---
 
