@@ -1,5 +1,5 @@
 ---
-permalink: /java-game-dev/
+layout: post
 title: "Java Game Development"
 layout: single
 classes: wide
