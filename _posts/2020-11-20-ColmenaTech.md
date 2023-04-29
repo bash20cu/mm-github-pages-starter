@@ -1,5 +1,5 @@
 ---
-permalink: /:categories/:year/:month/:day/:title/
+permalink: /:title/
 title: "Collaboration with ColmenaTech on Odoo"
 layout: single
 classes: wide

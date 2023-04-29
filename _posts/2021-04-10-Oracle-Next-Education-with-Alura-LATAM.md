@@ -1,5 +1,5 @@
 ---
-permalink: /:categories/:year/:month/:day/:title/
+permalink: /:title/
 title: "Oracle Next Education with Alura LATAM"
 layout: single
 classes: wide

@@ -1,5 +1,5 @@
 ---
-permalink: /:categories/:year/:month/:day/:title/
+permalink: /:title/
 title: "Inventario PyDev win32"
 layout: single
 classes: wide
