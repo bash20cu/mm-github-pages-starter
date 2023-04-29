@@ -1,5 +1,5 @@
 ---
-permalink: /projects/Collaboration with ColmenaTech on Odoo
+permalink: Portfolio/projects/colmenatech
 title: "Collaboration with ColmenaTech on Odoo"
 layout: single
 classes: wide

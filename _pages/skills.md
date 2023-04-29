@@ -56,6 +56,7 @@ toc_icon: "cog"
 
 - Visual Studio Code
 - Visual Studio 2022
+- Netbeans
 
 ## Operating System <i class="fa fa-laptop"></i>
 
