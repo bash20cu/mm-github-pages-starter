@@ -1,5 +1,5 @@
 ---
-permalink: Portfolio/projects/path-finding
+permalink: /Portfolio/projects/path-finding
 title: "Web Application for Graph Visualization and Shortest Path Finding using Dijkstra's Algorithm"
 layout: single
 classes: wide

@@ -1,5 +1,5 @@
 ---
-permalink: Portfolio/projects/oracle-next-education
+permalink: /Portfolio/projects/java-game-dev/oracle-next-education
 title: "Oracle Next Education with Alura LATAM"
 layout: single
 classes: wide
