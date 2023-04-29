@@ -1,0 +1,11 @@
+a.post-link {
+  border-bottom: 1px solid #ccc; /* Agrega un borde inferior al enlace */
+  color: #333; /* Cambia el color del enlace */
+  font-size: 18px; /* Cambia el tamaño de la fuente del enlace */
+  text-decoration: none; /* Elimina la subraya debajo del enlace */
+  transition: border-bottom-color 0.2s ease-in-out; /* Agrega una animación de transición */
+}
+
+a.post-link:hover {
+  border-bottom-color: #666; /* Cambia el color del borde inferior al pasar el ratón sobre el enlace */
+}

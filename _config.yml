@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Software Engineer Student
 twitter_username: Migue_Cu_Cr
 github_username: bash20cu
-minimal_mistakes_skin: aqua
+minimal_mistakes_skin: mint
 search: true
 url: "https://bash20cu.github.io/"
 #baseurl: ""
@@ -34,6 +34,9 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+sass:
+  sass_dir: _sass
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -58,7 +61,7 @@ plugins:
 
 author:
   name   : "Miguel Fernandez"
-  avatar : "/assets/images/bio-photo-3.jpg"
+  avatar : "/assets/images/bio-photo-4.jpg"
   bio    : "Software Engineer Student"
   links:
     - label: "Resume"
@@ -94,17 +97,17 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_projects"
       type: posts
     values:
       layout: single
       show_date: false
       author_profile: true
-      read_time: false
-      comments: true
+      read_time: true
+      comments: false
       share: true
       related: true
-   #_pages
+  # _pages
   - scope:
       path: "_pages"
       type: pages
