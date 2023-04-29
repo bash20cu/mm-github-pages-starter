@@ -1,5 +1,5 @@
 ---
-permalink: /Portfolio/projects/
+permalink: /projects/
 title: "Projects"
 excerpt_separator: "projects"
 tags:
