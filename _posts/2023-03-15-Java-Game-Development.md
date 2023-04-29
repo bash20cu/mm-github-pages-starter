@@ -1,5 +1,5 @@
 ---
-permalink: /Portfolio/projects/java-game-dev/
+permalink: /Portfolio/projects/java-game-dev
 title: "Java Game Development"
 layout: single
 classes: wide
